@@ -10,7 +10,7 @@
     <project name="device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="vince"/>
 
     <!--Vendor Tree-->
-    <project name="vendor_xiaomi_vince" path="vendor_xiaomi_vince" remote="vince"/>
+    <project name="vendor_xiaomi_vince" path="vendor/xiaomi/vince" remote="vince"/>
     <project name="vendor_xiaomi_msm8953-common" path="vendor/xiaomi/msm8953-common" remote="vince"/>
 
     <!--Kernel Tree-->
