@@ -1,4 +1,15 @@
-# Organization for playing with Xiaomi Redmi 5 Plus (Vince)
+# Organization for playing with My devices. Where I'll do my tests basically.
+
+Owned : 
+- Google Pixel 3a (Sargo)
+- Xiaomi Mi Mix 2s (Polaris)
+- Xiaomi Redmi 5 Plus (Vince)
+- Oneplus 5 (CheeseBurger)
+- Oneplus 5T (HotDogB)
+- Xiaomi Redmi Note 11 Pro 5G (Veyx)
+
+
+# Vince :
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
