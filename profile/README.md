@@ -52,3 +52,51 @@ Owned :
 
 ![Xiaomi Redmi 5 Plus](https://i.imgur.com/2FYdLQK.jpg "Xiaomi Redmi 5 Plus")
 
+
+# Cheeseburger:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="los" fetch="https://github.com/LineageOS/" revision="lineage-21" />
+    <remote name="Muppets" fetch="https://github.com/TheMuppets/" revision="Muppets" />
+
+    <!-- Device Tree -->
+    <project name="android_device_oneplus_cheeseburger" path="device/oneplus/cheeseburger" remote="los"/>
+    <project name="android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="los"/>
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_oneplus_msm8998" path="kernel/oneplus/msm8998" remote="los"/>
+
+    <!--Vendor Tree-->
+    <project name="proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" remote="Muppets" revision="lineage-21"/>
+    <project name="proprietary_vendor_oneplus_msm8998-common" path="vendor/oneplus/msm8998-common" remote="Muppets" revision="lineage-21"/>
+
+    <!--Hardware Tree-->
+    <project name="android_hardware_oneplus" path="hardware/oneplus" remote="los"/>
+</manifest>
+```
+
+# HotDogB:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="los" fetch="https://github.com/LineageOS/" revision="lineage-21" />
+    <remote name="Muppets" fetch="https://github.com/TheMuppets/" revision="Muppets" />
+
+    <!-- Device Tree -->
+    <project name="android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="los"/>
+    <project name="android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="los"/>
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="los"/>
+
+    <!--Vendor Tree-->
+    <project name="proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="Muppets" revision="lineage-21"/>
+    <project name="proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="Muppets" revision="lineage-21"/>
+
+    <!--Hardware Tree-->
+    <project name="android_hardware_oneplus" path="hardware/oneplus" remote="los"/>
+</manifest>
+```
