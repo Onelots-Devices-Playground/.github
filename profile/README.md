@@ -82,7 +82,7 @@ Owned :
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="playground" fetch="https://github.com/https://github.com/orgs/Onelots-Devices-Playground/" revision="vic" />
+    <remote name="playground" fetch="https://github.com/Onelots-Devices-Playground/" revision="vic" />
 
     <!-- Device Tree -->
     <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="playground"/>
