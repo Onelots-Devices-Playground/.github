@@ -96,6 +96,6 @@ Owned :
     <project name="vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="playground"/>
 
     <!--Hardware Tree-->
-    <project name="hardware_oplus" path="hardware/oneplus" remote="playground"/>
+    <project name="hardware_oplus" path="hardware/oplus" remote="playground"/>
 </manifest>
 ```
