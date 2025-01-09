@@ -82,21 +82,20 @@ Owned :
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="los" fetch="https://github.com/LineageOS/" revision="lineage-21" />
-    <remote name="Muppets" fetch="https://github.com/TheMuppets/" revision="Muppets" />
+    <remote name="playground" fetch="https://github.com/https://github.com/orgs/Onelots-Devices-Playground/" revision="vic" />
 
     <!-- Device Tree -->
-    <project name="android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="los"/>
-    <project name="android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="los"/>
+    <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="playground"/>
+    <project name="device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="playground"/>
 
     <!--Kernel Tree-->
-    <project name="android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="los"/>
+    <project name="kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="playground"/>
 
     <!--Vendor Tree-->
-    <project name="proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="Muppets" revision="lineage-21"/>
-    <project name="proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="Muppets" revision="lineage-21"/>
+    <project name="vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="playground"/>
+    <project name="vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="playground"/>
 
     <!--Hardware Tree-->
-    <project name="android_hardware_oneplus" path="hardware/oneplus" remote="los"/>
+    <project name="hardware_oeplus" path="hardware/oneplus" remote="playground"/>
 </manifest>
 ```
