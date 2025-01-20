@@ -77,7 +77,7 @@ Owned :
 </manifest>
 ```
 
-# HotDogB:
+# HotDogB (CrDroid trees):
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -97,6 +97,29 @@ Owned :
 
     <!--Hardware Tree-->
     <project name="hardware_oplus" path="hardware/oplus" remote="playground"/>
+</manifest>
+```
+
+# HotDogB (LineageOS trees):
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="LosHotdogb" fetch="https://github.com/LineageOS/" revision="lineage-22.1" />
+
+    <!-- Device Tree -->
+    <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="LosHotdogb"/>
+    <project name="android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="LosHotdogb"/>
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="LosHotdogb"/>
+
+    <!--Vendor Tree-->
+    <project name="android_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="LosHotdogb"/>
+    <project name="android_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="LosHotdogb"/>
+
+    <!--Hardware Tree-->
+    <project name="android_hardware_oplus" path="hardware/oplus" remote="LosHotdogb"/>
 </manifest>
 ```
 
