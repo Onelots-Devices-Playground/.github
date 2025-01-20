@@ -115,8 +115,8 @@ Owned :
     <project name="android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="LosHotdogb"/>
 
     <!--Vendor Tree-->
-    <project name="android_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="LosHotdogb"/>
-    <project name="android_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="LosHotdogb"/>
+    <project name="proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="LosHotdogb"/>
+    <project name="proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="LosHotdogb"/>
 
     <!--Hardware Tree-->
     <project name="android_hardware_oplus" path="hardware/oplus" remote="LosHotdogb"/>
