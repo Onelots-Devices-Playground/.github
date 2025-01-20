@@ -108,7 +108,7 @@ Owned :
     <remote name="LosHotdogb" fetch="https://github.com/LineageOS/" revision="lineage-22.1" />
 
     <!-- Device Tree -->
-    <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="LosHotdogb"/>
+    <project name="android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="LosHotdogb"/>
     <project name="android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="LosHotdogb"/>
 
     <!--Kernel Tree-->
