@@ -107,7 +107,6 @@ Owned :
 <manifest>
     <remote name="LosHotdogb" fetch="https://github.com/LineageOS/" revision="lineage-22.1" />
     <remote name="Onelots" fetch="https://github.com/Onelots-Devices-Playground" revision="vic" />
-    <remote name="sensei" fetch="https://github.com/SENSEIIIII" revision="qpr2" />
     <remote name="gcam" fetch="https://github.com/oneloutre" revision="hotdogb" />
 
     <!-- Device Tree -->
@@ -125,7 +124,7 @@ Owned :
     <project name="android_hardware_oplus" path="hardware/oplus" remote="LosHotdogb"/>
 
     <!--Extra Packages-->
-    <project name="packages_apps_OPlusExtras" path="packages/apps/OPlusExtras" remote="sensei"/>
+    <project name="packages_apps_OPlusExtras" path="packages/apps/OPlusExtras" remote="Onelots"/>
     <project name="vendor_GoogleCamera" path="vendor/GoogleCamera/hotdogb" remote="gcam"/>
     
 </manifest>
