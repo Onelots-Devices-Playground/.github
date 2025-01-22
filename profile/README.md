@@ -106,10 +106,11 @@ Owned :
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="LosHotdogb" fetch="https://github.com/LineageOS/" revision="lineage-22.1" />
+    <remote name="Onelots" fetch="https://github.com/Onelots-Devices-Playground" revision="vic" />
 
     <!-- Device Tree -->
-    <project name="android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="LosHotdogb"/>
-    <project name="android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="LosHotdogb"/>
+    <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="Onelots"/>
+    <project name="device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="Onelots"/>
 
     <!--Kernel Tree-->
     <project name="android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="LosHotdogb"/>
