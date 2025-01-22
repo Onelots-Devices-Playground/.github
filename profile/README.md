@@ -126,7 +126,7 @@ Owned :
 
     <!--Extra Packages-->
     <project name="packages_apps_OPlusExtras" path="packages/apps/OPlusExtras" remote="sensei"/>
-    <project name="vendor_GoogleCamera" path="vendor/GoogleCamera" remote="gcam"/>
+    <project name="vendor_GoogleCamera" path="vendor/GoogleCamera/hotdogb" remote="gcam"/>
     
 </manifest>
 ```
