@@ -107,7 +107,7 @@ Owned :
 <manifest>
     <remote name="LosHotdogb" fetch="https://github.com/LineageOS/" revision="lineage-22.1" />
     <remote name="Onelots" fetch="https://github.com/Onelots-Devices-Playground" revision="vic" />
-    <remote name="sensei" fetch="https://github.com/SENSEIIIII" revision="udc" />
+    <remote name="sensei" fetch="https://github.com/SENSEIIIII" revision="qpr2" />
 
     <!-- Device Tree -->
     <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="Onelots"/>
