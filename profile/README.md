@@ -77,30 +77,36 @@ Owned :
 </manifest>
 ```
 
-# HotDogB (CrDroid trees):
+# HotDog :
 
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="playground" fetch="https://github.com/Onelots-Devices-Playground/" revision="vic" />
+    <remote name="LosHotdogb" fetch="https://github.com/LineageOS/" revision="lineage-22.1" />
+    <remote name="Onelots" fetch="https://github.com/Onelots-Devices-Playground" revision="vic" />
+    <remote name="cam" fetch="https://github.com/oneloutre" revision="hotdog" />
 
     <!-- Device Tree -->
-    <project name="device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="playground"/>
-    <project name="device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="playground"/>
+    <project name="device_oneplus_hotdog" path="device/oneplus/hotdog" remote="Onelots"/>
+    <project name="device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="Onelots"/>
 
     <!--Kernel Tree-->
-    <project name="kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="playground"/>
+    <project name="android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="LosHotdogb"/>
 
     <!--Vendor Tree-->
-    <project name="vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="playground"/>
-    <project name="vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="playground"/>
+    <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="github" revision="lineage-22.1"/>
+    <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="github" revision="lineage-22.1"/>
 
     <!--Hardware Tree-->
-    <project name="hardware_oplus" path="hardware/oplus" remote="playground"/>
+    <project name="android_hardware_oplus" path="hardware/oplus" remote="LosHotdogb"/>
+
+    <!--Extra Packages-->
+    <project name="packages_apps_OPlusExtras" path="packages/apps/OPlusExtras" remote="Onelots"/>
+    <project name="vendor_Camera" path="vendor/Camera/hotdog" remote="cam"/>
+    
 </manifest>
 ```
 
-# HotDogB (LineageOS trees):
+# HotDogB :
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
