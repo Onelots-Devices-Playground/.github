@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="los" fetch="https://github.com/LineageOS/" revision="lineage-21" />
+
+    <!-- Device Tree -->
+    <project name="android_device_virt_vboxware" path="device/virt/vboxware" remote="los"/>
+    <project name="android_device_virt_virt-common" path="device/virt/virt-common" remote="los"/>
+
+    <!--Common Tree-->
+    <project name="android_external_mesa" path="external/mesa" remote="los" revision="lineage-22.0"/>
+    <project name="android_prebuilts_bootmgr" path="prebuilts/bootmgr" remote="los" revision="lineage-21.0"/>
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_virt_virtio" path="kernel/virt/virtio" remote="los"/>
+</manifest>
