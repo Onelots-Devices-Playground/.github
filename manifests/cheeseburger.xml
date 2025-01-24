@@ -9,7 +9,7 @@
     <project name="device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="Onelots"/>
 
     <!--Kernel Tree-->
-    <project name="android_kernel_oneplus_msm8998" path="kernel/oneplus/msm8998" remote="Onelots"/>
+    <project name="kernel_oneplus_msm8998" path="kernel/oneplus/msm8998" remote="Onelots"/>
 
     <!--Vendor Tree-->
     <project name="proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" remote="Muppets" revision="lineage-22.1"/>
