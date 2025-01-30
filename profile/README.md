@@ -6,6 +6,7 @@ Owned :
 - Xiaomi Redmi 5 Plus (Vince)
 - Oneplus 5 (CheeseBurger)
 - Oneplus 5T (HotDogB)
+- Oneplus Nord 10 CE 5G (Billie) (Soontm)
 - Xiaomi Redmi Note 11 Pro 5G (Veux)
 - Xiaomi Mi A3 (laurel_sprout)
 
