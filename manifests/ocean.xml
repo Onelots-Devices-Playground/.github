@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Device Tree -->
+    <project name="android_device_motorola_ocean" path="device/motorola/ocean" remote="lineage" revision="lineage-22.1"/>
+    <project name="android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="lineage" revision="lineage-22.1"/>
+
+    <!--Vendor Tree-->
+    <project name="vendor_motorola_ocean" path="vendor/motorola/ocean" remote="muppets" revision="lineage-22.1"/>
+    <project name="vendor_motorola_sdm632" path="vendor/motorola/sdm632" remote="muppets" revision="lineage-22.1"/>
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="lineage" revision="lineage-22.1"/>
+
+    <!--bson-->
+    <project name="android_external_bson" path="external/bson" remote="lineage" revision="lineage-22.1"/>
+
+    <!--hardware-->
+    <project name="android_hardware_motorola" path="hardware/motorola" remote="lineage" revision="lineage-22.1"/>
+</manifest>
