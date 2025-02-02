@@ -7,8 +7,8 @@
     <project name="android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="lineage"/>
 
     <!--Vendor Tree-->
-    <project name="vendor_motorola_ocean" path="vendor/motorola/ocean" remote="muppets" revision="lineage-22.1"/>
-    <project name="vendor_motorola_sdm632" path="vendor/motorola/sdm632" remote="muppets" revision="lineage-22.1"/>
+    <project name="proprietary_vendor_motorola_ocean" path="vendor/motorola/ocean" remote="muppets" revision="lineage-22.1"/>
+    <project name="proprietary_vendor_motorola_sdm632-common" path="vendor/motorola/sdm632-common" remote="muppets" revision="lineage-22.1"/>
 
     <!--Kernel Tree-->
     <project name="android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="lineage" />
