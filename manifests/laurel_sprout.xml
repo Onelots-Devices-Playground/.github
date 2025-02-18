@@ -8,7 +8,7 @@
     <project name="device_xiaomi_sm6125-common" path="device/xiaomi/sm6125-common" remote="Onelots"/>
 
     <!--Kernel Tree-->
-    <project name="kernel_xiaomi_laurel_sprout" path="kernel/xiaomi/laurel_sprout" remote="Onelots"/>
+    <project name="kernel_xiaomi_laurel_sprout" path="kernel/xiaomi/sm6125" remote="Onelots"/>
 
     <!--Vendor Tree-->
     <project name="proprietary_vendor_xiaomi_laurel_sprout" path="vendor/xiaomi/laurel_sprout" remote="sky"/>
