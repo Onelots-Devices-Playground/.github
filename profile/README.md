@@ -1,14 +1,17 @@
 # Organization for playing with My devices. Where I'll do my tests basically.
 
-Owned : 
+Owned :
 - Google Pixel 3a (Sargo)
-- Xiaomi Mi Mix 2s (Polaris)
-- Xiaomi Redmi 5 Plus (Vince)
 - Oneplus 5 (CheeseBurger)
-- Oneplus 5T (HotDogB)
-- Oneplus Nord 10 CE 5G (Billie) (Soontm)
-- Xiaomi Redmi Note 11 Pro 5G (Veux)
+- Oneplus 7T (HotDogB)
+- Oneplus Nord 10 CE 5G (Billie)
+- Xiaomi Mi Mix 2s (Polaris)
+- Xiaomi Mi Note 2 (Scorpio)
 - Xiaomi Mi A3 (laurel_sprout)
+- Xiaomi Redmi 5 Plus (Vince)
+- Xiaomi Redmi 9S (Curtana => MiAtoll)
+- Xiaomi Redmi Note 11S (fleur)
+- Xiaomi Redmi Note 11 Pro 5G (Veux)
 
 
 # Vince :
@@ -35,5 +38,3 @@ Owned :
 ## Device Picture
 
 ![Xiaomi Redmi 5 Plus](https://i.imgur.com/2FYdLQK.jpg "Xiaomi Redmi 5 Plus")
-
-
