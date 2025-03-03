@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="miatoll" fetch="https://github.com/Onelots-Devices-Playground" revision="lineage-22.1" />
+
+    <!-- Device Tree -->
+    <project name="device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="miatoll"/>
+    <project name="device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="miatoll"/>
+
+    <!--Vendor Tree-->
+    <project name="proprietary_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="muppets" revision="lineage-22.1"/>
+    <project name="proprietary_vendor_xiaomi_sm6250-common" path="vendor/motorola/sm6250-common" remote="muppets" revision="lineage-22.1"/>
+
+    <!--Kernel Tree-->
+    <project name="kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="miatoll"/>
+
+    <!--Additional Hardware-->
+    <project name="android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="lineage" revision="lineage-22.1"/>
+    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="lineage" revision="lineage-22.1"/>
+</manifest>
