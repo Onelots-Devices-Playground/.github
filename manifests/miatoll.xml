@@ -26,8 +26,8 @@
     <project name="Onelots-Devices-Playground/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" remote="github-non-los" revision="vic"/>
 
     <!--Vendor Tree-->
-    <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="muppets" revision="lineage-22.1"/>
-    <project name="TheMuppets/proprietary_vendor_xiaomi_sm6250-common" path="vendor/motorola/sm6250-common" remote="muppets" revision="lineage-22.1"/>
+    <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github-non-los" revision="lineage-22.1"/>
+    <project name="TheMuppets/proprietary_vendor_xiaomi_sm6250-common" path="vendor/motorola/sm6250-common" remote="github-non-los" revision="lineage-22.1"/>
 
     <!--Kernel Tree-->
     <project name="Onelots-Devices-Playground/kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" remote="github-non-los" revision="vic"/>
