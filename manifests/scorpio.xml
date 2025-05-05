@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Device Tree -->
+    <project name="Onelots-Devices-Playground/device_xiaomi_scorpio" path="device/xiaomi/scorpio" remote="github-non-los" revision="vic"/>
+    <project name="Onelots-Devices-Playground/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github-non-los" revision="vic"/>
+
+    <!--Vendor Tree-->
+    <project name="Onelots-Devices-Playground/vendor_xiaomi_scorpio" path="vendor/xiaomi/scorpio" remote="github-non-los" revision="vic"/>
+    <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/sm6250-common" remote="github-non-los" revision="lineage-22.1"/>
+
+    <!--Kernel Tree-->
+    <project name="nelots-Devices-Playground/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="github-non-los" revision="vic"/>
+
+</manifest>
