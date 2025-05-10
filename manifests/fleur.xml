@@ -10,6 +10,6 @@
     <project name="Onelots-Devices-Playground/kernel_xiaomi_mt6781" path="kernel/xiaomi/mt6781" remote="github-non-los" revision="vic"/>
 
     <!--Hardware Tree-->
-    <project name="Evolution-x-devices/hardware_xiaomi" path="hardware/xiaomi" remote="github-non-los" revision="vic"/>
-    <project name="LineageOS/hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="lineage-22.2"/>
+    <!--project name="Evolution-x-devices/hardware_xiaomi" path="hardware/xiaomi" remote="github-non-los" revision="vic"/-->
+    <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="lineage-22.2"/>
 </manifest>
