@@ -1,6 +1,6 @@
 # Organization for playing with My devices. Where I'll do my tests basically.
 
-Owned :
+**Owned :**
 - Google Pixel 3a (Sargo)
 - Oneplus 5 (CheeseBurger)
 - Oneplus 7T (HotDogB)
@@ -13,6 +13,32 @@ Owned :
 - Xiaomi Redmi Note 11S (fleur)
 - Xiaomi Redmi Note 11 Pro 5G (Veux)
 
+**Official by me as of Now at EvolutionX :** 
+- Google Pixel 3a (Sargo)
+  - Google Pixel 3a (Sargo)
+  - Google Pixel 3a XL (Bonito)
+  - Google Pixel 3 (Blueline)
+  - Google Pixel 3 XL (Crosshatch)
+- OnePlus 5 (Cheeseburger)
+  - OnePlus 5 (Cheeseburger)
+  - OnePlus 5T (Dumpling)
+- OnePlus 7T (Hotdogb)
+  - OnePlus 7T (Hotdogb)
+  - OnePlus 7T Pro (Hotdog)
+  - OnePlus 7 (Guacamoleb)
+  - OnePlus 7 Pro (Guacamole)
+- Oneplus Nord 10 CE 5G (Billie)
+- Xiaomi Mi A3 (laurel_sprout)
+- Xiaomi Mi Mix 2s (Polaris)
+- Xiaomi Mi Note 2 (Scorpio)
+- Xiaomi Redmi 5 Plus (Vince)
+- Xiaomi Redmi 9S (Curtana) (All the following devices are unified under **Miatoll** codename)
+  - Xiaomi Poco M2 Pro (Gram)
+  - Xiaomi Redmi Note 9S (Curtana)
+  - Xiaomi Note 9 Pro (Joyeuse)
+  - Xiaomi Note 9 Pro Max (Excalibur)
+  - Xiaomi Note 10 Lite (Curtana)
+- Xiaomi Redmi Note 11 Pro 5G (Veux)
 
 # Vince :
 
