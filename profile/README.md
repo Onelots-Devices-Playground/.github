@@ -2,6 +2,7 @@
 
 **Owned :**
 - Google Pixel 3a (Sargo)
+- Motorola G30 (Caprip)
 - Oneplus 5 (CheeseBurger)
 - Oneplus 7T (HotDogB)
 - Oneplus Nord 10 CE 5G (Billie)
