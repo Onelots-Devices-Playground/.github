@@ -2,7 +2,10 @@
 
 **Owned :**
 - Google Pixel 3a (Sargo)
+- Motorola Edge 30 Neo (Miami)
 - Motorola G30 (Caprip)
+- Motorola P50 (Kane)
+- Motorola Moto G stylus 5G (Denver)
 - Oneplus 5 (CheeseBurger)
 - Oneplus 7T (HotDogB)
 - Oneplus Nord 10 CE 5G (Billie)
@@ -11,10 +14,13 @@
 - Xiaomi Mi Note 2 (Scorpio)
 - Xiaomi Mi A3 (laurel_sprout)
 - Xiaomi Mi 9 (Cepheus)
+- Xiaomi Mi 10T Lite (Gauguin)
 - Xiaomi Redmi 5 Plus (Vince)
 - Xiaomi Redmi 9S (Curtana => MiAtoll)
-- Xiaomi Redmi Note 11S (fleur)
-- Xiaomi Redmi Note 11 Pro 5G (Veux)
+- Xiaomi Redmi Note 8T (Willow/Ginkgo)
+- Xiaomi Redmi Note 11S (fleur/Miel)
+- Xiaomi Redmi Note 11 Pro 5G (Veux/Peux)
+- Xiaomi Redmi Note 12 5G (Stone : Moonstone)
 
 **Official by me as of Now at EvolutionX :** 
 - Google Pixel 3a (Sargo)
