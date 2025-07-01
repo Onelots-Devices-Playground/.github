@@ -14,5 +14,5 @@
     <project name="Onelots-Devices-Playground/hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="vic"/>
 
     <!--Sepolicy trees (welp)-->
-    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github-non-los" revision="lineage-22.2"/>
+    <project name="mt6781-devs/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github-non-los" revision="lineage-22.2"/>
 </manifest>
