@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device Tree -->
-    <project name="LineageOS/android_device_xiaomi_gauguin" path="device/xiaomi/gauguin" remote="github-non-los" revision="lineage-22.2"/>
-    <project name="LineageOS/android_device_xiaomi_sm7225-common" path="device/xiaomi/sm7225-common" remote="github-non-los" revision="lineage-22.2"/>
+    <project name="Onelots-Devices-Playground/device_xiaomi_gauguin" path="device/xiaomi/gauguin" remote="github-non-los" revision="vic"/>
 
     <!--Vendor Tree-->
-    <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" path="vendor/xiaomi/gauguin" remote="github-non-los" revision="lineage-22.2"/>
-    <project name="TheMuppets/proprietary_vendor_xiaomi_sm7225-common" path="vendor/xiaomi/sm7225-common" remote="github-non-los" revision="lineage-22.2"/>
+    <project name="Onelots-Devices-Playground/vendor_xiaomi_gauguin" path="vendor/xiaomi/gauguin" remote="github-non-los" revision="vic"/>
 
     <!--Kernel Tree-->
-    <project name="LineageOS/android_kernel_xiaomi_sm7225" path="kernel/xiaomi/sm7225" remote="github-non-los" revision="lineage-22.2"/>
+    <project name="LineageOS/android_kernel_xiaomi_gauguin" path="kernel/xiaomi/gauguin" remote="github-non-los" revision="lineage-22.2"/>
 </manifest>
