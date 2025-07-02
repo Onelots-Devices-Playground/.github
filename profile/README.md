@@ -36,7 +36,6 @@
   - OnePlus 7T Pro (Hotdog)
   - OnePlus 7 (Guacamoleb)
   - OnePlus 7 Pro (Guacamole)
-- Oneplus Nord 10 CE 5G (Billie)
 - Xiaomi Mi A3 (laurel_sprout)
 - Xiaomi Mi Mix 2s (Polaris)
 - Xiaomi Mi Note 2 (Scorpio)
