@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Device Tree -->
+    <project name="LineageOS/android_device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github-non-los" revision="lineage-22.2"/>
+
+    <!--Vendor Tree-->
+    <project name="TheMuppets/proprietary_vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github-non-los" revision="lineage-22.2"/>
+</manifest>
