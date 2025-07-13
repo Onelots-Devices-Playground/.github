@@ -1,5 +1,7 @@
 # Organization for playing with My devices. Where I'll do my tests basically.
 
+## 📱 Devices I own (Or I work on currently)
+
 **Owned :**
 - Google Pixel 3a (Sargo)
 - Motorola Edge 30 Neo (Miami)
@@ -9,7 +11,8 @@
 - Oneplus 5 (CheeseBurger)
 - Oneplus 7T (HotDogB)
 - Oneplus Nord 10 CE 5G (Billie)
-- Samsung S9+ (starlte)
+- Samsung S9+ (star2lte)
+- Sony 10 IV (pdx225)
 - Xiaomi Mi Mix 2s (Polaris)
 - Xiaomi Mi Note 2 (Scorpio)
 - Xiaomi Mi A3 (laurel_sprout)
@@ -48,27 +51,25 @@
   - Xiaomi Note 10 Lite (Curtana)
 - Xiaomi Redmi Note 11 Pro 5G (Veux)
 
-# Vince :
+## 🔗 Different links 
 
+### 🔗 General links :
 
-## Spec Sheet
+Mirror : https://evox.onelots.fr/  
+Github : https://github.com/oneloutre  
+Playground : https://github.com/onelots-devices-playground  
+Testers page : https://evox.onelots.fr/testers  
 
-| Feature                 | Specification                     |
-| :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 2.0 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8953 Snapdragon 625   |
-| GPU                     | Adreno 506                        |
-| Memory                  | 3/4 GB                            |
-| Shipped Android Version | 7.1.2                             |
-| Storage                 | 32/64 GB                          |
-| MicroSD                 | Up to 256 GB                      |
-| Battery                 | 4000 mAh (non-removable)          |
-| Dimensions              | 158.5 x 75.4 x 8.0 mm             |
-| Display                 | 2160x1080 pixels, 5.9 (~401 PPI)  |
-| Rear Camera             | 12 MP, LED flash                  |
-| Front Camera            | 5 MP                              |
-| Release Date            | April 2017                        |
+### 📞 contact :
 
-## Device Picture
+discord (best way honestly) : https://discord.onelots.fr  
+X/Twitter : https://x.com/0nelots  
+Mail : mailto://onelots@onelots.fr  
+Telegram (not used a lot) : https://t.me/onelots_devices  
 
-![Xiaomi Redmi 5 Plus](https://i.imgur.com/2FYdLQK.jpg "Xiaomi Redmi 5 Plus")
+### 💵 Donation links :
+
+Paypal (best) : https://paypal.me/0nelots  
+Buy me a coffee : https://buymeacoffee.com/onelots  
+Kraken (crypto) : https://kraken.com/pay/onelots  
+DOGE address : D66Yb1Agh3REZghqdWWzh8RM3Dq2ru7veL  
