@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="Muppets-Vendor" fetch="https://github.com/TheMuppets/" revision="lineage-22.1" />
+    <remote name="Lineage-device" fetch="https://github.com/LineageOs/" revision="lineage-22.1" />
+    <remote name="Onelots" fetch="https://github.com/Onelots" revision="lineage-22.2" />
+
+    <!-- Device Tree -->
+    <project name="android_device_motorola_ibiza" path="device/motorola/ibiza" remote="Onelots"/>
+    <project name="android_device_motorola_sm6375-common" path="device/xiaomi/sm6375-common" remote="Lineage-device"/>
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_motorola_sm6375" path="kernel/motorola/sm6375" remote="Lineage-device"/>
+
+    <!--Vendor Tree-->
+    <project name="proprietary_vendor_motorola_ibiza" path="vendor/motorola/ibiza" remote="Onelots"/>
+    <project name="proprietary_vendor_xiaomi_sm6375-common" path="vendor/xiaomi/sm6375-common" remote="Muppets-Vendor"/>
+</manifest>
