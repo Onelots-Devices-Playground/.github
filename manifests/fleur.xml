@@ -11,7 +11,7 @@
 
     <!--Hardware Tree-->
     <!--project name="Evolution-x-devices/hardware_xiaomi" path="hardware/xiaomi" remote="github-non-los" revision="vic"/-->
-    <project name="LineagOs/hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="vic"/>
+    <project name="LineagOs/android_hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="lineage-22.2"/>
 
     <!--Sepolicy trees (welp)-->
     <project name="LineageOs/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github-non-los" revision="lineage-22.2"/>
