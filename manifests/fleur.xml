@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device Tree -->
-    <project name="Onelots-Devices-Playground/device_xiaomi_fleur" path="device/xiaomi/fleur" remote="github-non-los" revision="bka"/>
+    <project name="Onelots-Devices-Playground/device_xiaomi_fleur" path="device/xiaomi/fleur" remote="github-non-los" revision="vic"/>
 
     <!--Vendor Tree-->
-    <project name="Onelots-Devices-Playground/vendor_xiaomi_fleur" path="vendor/xiaomi/fleur" remote="github-non-los" revision="bka"/>
-    <project name="mt6781-devs/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github-non-los" revision="lineage-22.2"/>
+    <project name="Onelots-Devices-Playground/vendor_xiaomi_fleur" path="vendor/xiaomi/fleur" remote="github-non-los" revision="vic"/>
+    <project name="mt6781-devs/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github-non-los" revision="android-16"/>
 
     <!--Kernel Tree-->
-    <project name="Onelots-Devices-Playground/kernel_xiaomi_mt6781" path="kernel/xiaomi/mt6781" remote="github-non-los" revision="bka"/>
+    <project name="Onelots-Devices-Playground/kernel_xiaomi_mt6781" path="kernel/xiaomi/mt6781" remote="github-non-los" revision="vic"/>
 
     <!--Hardware Tree-->
     <!--project name="Evolution-x-devices/hardware_xiaomi" path="hardware/xiaomi" remote="github-non-los" revision="vic"/-->
-    <project name="Evolution-x-devices/hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="bka"/>
+    <project name="mt6781-devs/android_hardware_mediatek" path="hardware/mediatek" remote="github-non-los" revision="lineage-22.2"/>
 
     <!--Sepolicy trees (welp)-->
-    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github-non-los" revision="lineage-23.0"/>
+    <project name="mt6781-devs/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github-non-los" revision="lineage-22.2"/>
 </manifest>
